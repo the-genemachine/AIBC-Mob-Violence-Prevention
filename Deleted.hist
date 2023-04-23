@@ -1,0 +1,58 @@
+
+  Id     Duration CommandLine
+  --     -------- -----------
+   1        0.082 try { . "c:\Program Files\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\browser\media\shellIntegration.ps1" } catch {}
+   2        3.733 git config --list
+   3        0.089 git config --global user.email "gene.gallant@rogers.com"
+   4        0.120 git config --global user.name "the-genemachine"
+   5        7.509 git clone https://github.com/the-genemachine/AIBC-Mob-Violence-Prevention.git
+   6        0.097 git add .
+   7        0.063 cd .\AIBC-Mob-Violence-Prevention\
+   8        0.273 git add .
+   9        0.547 git commit -m "your_commit_message"
+  10        3.800 git push origin main
+  11        4.047 git fetch
+  12        0.300 git merge origin/main
+  13        0.333 git status
+  14        0.026 cd ..
+  15        0.842 git init
+  16        0.238 git remote add origin https://github.com/the-genemachine/AIBC-Mob-Violence-Prevention.git
+  17        6.385 git add .
+  18        0.213 git rm --cached AIBC-Mob-Violence-Prevention
+  19        0.283 git rm --cached AIBC-Mob-Violence-Prevention -f
+  20        0.214 git add .
+  21        2.060 git commit -m "first commit April 23.23"
+  22        0.277 git push -u origin main
+  23        0.267 git status
+  24        0.138 git push
+  25        6.246 git push --set-upstream origin master
+  26        0.862 git init
+  27        0.269 git remote add origin https://github.com/the-genemachine/AIBC-Mob-Violence-Prevention.git
+  28        4.796 git add .
+  29        2.067 git commit -m "first commit April 23.23"
+  30        0.279 git push -u origin main
+  31        0.685 git branch -M main
+  32        3.715 git push -u origin main
+  33        5.168 git pull origin main
+  34        3.274 git push -u origin main
+  35        3.788 git push --set-upstream origin main
+  36        4.289 git pull
+  37        4.209 git pull https://github.com/the-genemachine/AIBC-Mob-Violence-Prevention.git
+  38        1.525 git reset --hard origin/main
+  39        4.173 git pull https://github.com/the-genemachine/AIBC-Mob-Violence-Prevention.git
+  40        3.941 git push -u origin main
+  41        0.121 ls
+  42        0.315 git status
+  43        0.298 git log
+  44        0.088 git
+  45        0.281 git list
+  46        0.394 git reset
+  47        0.277 git checkout
+  48        0.262 git stash
+  49        1.655 git stash -u
+  50        0.262 git status
+  51        0.304 git reflog
+  52        0.198 undelete
+  53        0.008 pwd
+  54        0.079 start shell:RecycleBinFolder
+
