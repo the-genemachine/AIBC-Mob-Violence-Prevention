@@ -6,7 +6,7 @@
 
 To address this scenario and devise a system to find the perpetrators and deter future incidents, a multi-faceted approach involving technology, law enforcement, and community engagement would be necessary. Here are some key components of such a system:
 
-- [ ] **Enhanced surveillance**: Install and upgrade CCTV cameras in public spaces and high-risk areas to monitor and record incidents. Use advanced technologies like facial recognition software and AI-powered video analytics to identify suspects and track their movements.
+- [X] **Enhanced surveillance**: Install and upgrade CCTV cameras in public spaces and high-risk areas to monitor and record incidents. Use advanced technologies like facial recognition software and AI-powered video analytics to identify suspects and track their movements.
 
 - [ ] **Police presence**: Increase police presence in high-risk areas, especially during peak times or when tensions are high. This may serve as a deterrent and enable a quicker response to incidents.
 

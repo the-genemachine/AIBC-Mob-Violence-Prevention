@@ -1,0 +1,101 @@
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]        78ms  ✓  
+└─# .\Create.ps1
+Enter a directory name: Enhanced-Surveillance
+
+    Directory: Z:\OpenAI-Mob-Violence
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----          2023-04-23  3:04 AM                Enhanced-Surveillance
+
+    Directory: Z:\OpenAI-Mob-Violence\Enhanced-Surveillance
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2023-04-23  3:04 AM              0 Enhanced-Surveillance.md
+-a---          2023-04-23  3:04 AM              0 Enhanced-Surveillance.plantuml
+-a---          2023-04-23  3:04 AM              0 Enhanced-Surveillance.png
+-a---          2023-04-23  3:04 AM              0 AIBC-Enhanced-Surveillance.plantuml
+-a---          2023-04-23  3:04 AM              0 AIBC-Enhanced-Surveillance.png
+
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]         39s  ✓  
+└─# git add .
+
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]       439ms  ✓  
+└─# git commit -m "Added Enhanced-Surveillance directory and base files"
+[main c0a38c3] Added Enhanced-Surveillance directory and base files
+ 8 files changed, 462 insertions(+)
+ create mode 100644 Create.ps1
+ create mode 100644 Enhanced-Surveillance/AIBC-Enhanced-Surveillance.plantuml
+ create mode 100644 Enhanced-Surveillance/AIBC-Enhanced-Surveillance.png
+ create mode 100644 Enhanced-Surveillance/Enhanced-Surveillance.md
+ create mode 100644 Enhanced-Surveillance/Enhanced-Surveillance.plantuml
+ create mode 100644 Enhanced-Surveillance/Enhanced-Surveillance.png
+ create mode 100644 main.md
+ create mode 100644 prompts.md
+
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                      840ms  ✓
+└─# git push
+Enumerating objects: 8, done.
+Counting objects: 100% (8/8), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (6/6), done.
+Writing objects: 100% (7/7), 12.45 KiB | 849.00 KiB/s, done.
+Total 7 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/the-genemachine/AIBC-Mob-Violence-Prevention.git
+   ec25cf7..c0a38c3  main -> main
+
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                         4s  ✓
+└─# pwd
+
+Path
+----
+Z:\OpenAI-Mob-Violence
+
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                       8ms  ✓  
+└─# git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   README.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                     218ms  ✓  
+└─# git add . 
+
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                     345ms  ✓  
+└─# git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   README.md
+
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                     209ms  ✓  
+└─# git commit -m "Added Content to Readme file"                        
+[main 6671a1b] Added Content to Readme file
+ 1 file changed, 29 insertions(+), 2 deletions(-)
+ rewrite README.md (61%)
+
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                     725ms  ✓  
+└─# git push  
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 1.61 KiB | 236.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/the-genemachine/AIBC-Mob-Violence-Prevention.git
+   e20f506..6671a1b  main -> main
+
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                        3s  ✓  
+└─# Get-History >> Git-Usage.hist
+
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                     104ms  ✓  
+└─#

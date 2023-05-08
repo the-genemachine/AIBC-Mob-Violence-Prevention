@@ -1,0 +1,39 @@
+@startuml
+
+!define AWESOME #5279C7
+
+start
+
+:Enhanced Surveillance;
+-> AI;
+-> Blockchain;
+
+partition AI {
+  :Real-time Analysis;
+  :Pattern Recognition;
+  :Predictive Capabilities;
+}
+
+partition Blockchain {
+  :Secure Data Storage;
+  :Access Control;
+  :Secure Communication;
+}
+
+:Combine AI and Blockchain;
+:Effective and Accountable Surveillance System;
+
+if (Privacy and Ethical Considerations?) then (Yes)
+  :Balance with Privacy and Ethics;
+  :Establish Regulations and Guidelines;
+endif
+
+stop
+
+skinparam rectangle {
+  BackgroundColor AWESOME
+  FontColor White
+  borderColor White
+}
+
+@enduml
