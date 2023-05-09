@@ -1,0 +1,21 @@
+@startuml
+start
+
+:Increase visible patrols;
+
+:Implement community policing;
+
+:Apply intelligence-led policing;
+
+:Coordinate with other agencies;
+
+:Develop rapid response capabilities;
+
+:Integrate technology;
+
+:Ensure public communication and transparency;
+
+:Evaluate and adapt strategies;
+
+stop
+@enduml
