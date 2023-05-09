@@ -192,3 +192,53 @@ To https://github.com/the-genemachine/AIBC-Mob-Violence-Prevention.git
 ┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                226ms  ✓  
 └─#
 
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                 12ms  ✓  
+└─# clear-History
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                  1ms  ✓  
+└─# get-date   
+
+May 8, 2023 9:18:52 PM
+
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                  3ms  ✓  
+└─# git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   02-Police-Presence/AIBC-Police-Presence.png
+        modified:   02-Police-Presence/Police-Presence.md
+        modified:   02-Police-Presence/Police-Presence.plantuml
+        modified:   02-Police-Presence/Police-Presence.png
+        modified:   CLI-Snaps.hist
+        modified:   Git-Usage.hist
+
+no changes added to commit (use "git add" and/or "git commit -a")
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                   2s  ✓  
+└─# git add . 
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                   1s  ✓  
+└─# git commit -m "Added content and Images for Police Presence"
+[main 74ad56a] Added content and Images for Police Presence
+ 9 files changed, 287 insertions(+), 2 deletions(-)
+ create mode 100644 02-Police-Presence/Police-Presence-1.jfif
+ create mode 100644 02-Police-Presence/Police-Presence-2.jfif
+ create mode 100644 02-Police-Presence/Police-Presence-3.jfif
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                854ms  ✓  
+└─# git push
+Enumerating objects: 19, done.
+Counting objects: 100% (17/17), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (12/12), done.
+Writing objects: 100% (12/12), 555.83 KiB | 21.38 MiB/s, done.
+Total 12 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/the-genemachine/AIBC-Mob-Violence-Prevention.git
+   3883ff9..74ad56a  main -> main
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                   3s  ✓  
+└─# Get-History >> .\Docs\cli.hist
+Out-File: Could not find a part of the path 'Z:\OpenAI-Mob-Violence\Docs\cli.hist'.
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                 26ms  ⨯  
+└─# Get-Help >> Git-Usage.hist
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                174ms  ✓  
+└─#
