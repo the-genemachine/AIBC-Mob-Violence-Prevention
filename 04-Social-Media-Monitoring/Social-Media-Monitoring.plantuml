@@ -1,0 +1,28 @@
+@startuml
+start
+
+:Social Media Monitoring;
+if (A) then (Identifying potential threats)
+:Identifying potential threats;
+endif
+if (B) then (Gathering evidence)
+:Gathering evidence;
+endif
+if (C) then (Analyzing patterns and trends)
+:Analyzing patterns and trends;
+endif
+if (D) then (Identifying influencers and networks)
+:Identifying influencers and networks;
+endif
+if (E) then (Enhancing community engagement)
+:Enhancing community engagement;
+endif
+if (F) then (Real-time response)
+:Real-time response;
+endif
+if (G) then (Privacy and ethical considerations)
+:Privacy and ethical considerations;
+endif
+
+stop
+@enduml

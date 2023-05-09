@@ -1,0 +1,34 @@
+@startuml
+start
+
+:AI and Blockchain\nin Social Media Monitoring;
+if (A) then (AI-enhanced data analysis)
+:AI-enhanced data analysis;
+  if (i) then (Sentiment analysis)
+  :Sentiment analysis;
+  endif
+  if (ii) then (Entity recognition)
+  :Entity recognition;
+  endif
+  if (iii) then (Image and video analysis)
+  :Image and video analysis;
+  endif
+endif
+if (B) then (Blockchain for secure\ndata storage and sharing)
+:Blockchain for secure\ndata storage and sharing;
+  if (i) then (Secure data storage)
+  :Secure data storage;
+  endif
+  if (ii) then (Data sharing and collaboration)
+  :Data sharing and collaboration;
+  endif
+  if (iii) then (Transparency and trust)
+  :Transparency and trust;
+  endif
+endif
+if (C) then (AI-driven predictive analytics)
+:AI-driven predictive analytics;
+endif
+
+stop
+@enduml
