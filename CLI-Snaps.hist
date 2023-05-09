@@ -261,3 +261,64 @@ Mode                 LastWriteTime         Length Name
 -a---          2023-05-08  9:52 PM              0 Community-Policing.png
 -a---          2023-05-08  9:52 PM              0 AIBC-Community-Policing.plantuml
 -a---          2023-05-08  9:52 PM              0 AIBC-Community-Policing.png
+
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                 39ms  ✓  
+└─# git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   CLI-Snaps.hist
+        modified:   README.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        03-Community-Policing/
+
+no changes added to commit (use "git add" and/or "git commit -a")
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                179ms  ✓  
+└─# git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   CLI-Snaps.hist
+        modified:   README.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        03-Community-Policing/
+
+no changes added to commit (use "git add" and/or "git commit -a")
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                148ms  ✓  
+└─# git add . 
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                936ms  ✓  
+└─# git commit -m "Added content and images for Community Policing"
+[main e2913aa] Added content and images for Community Policing
+ 9 files changed, 121 insertions(+), 3 deletions(-)
+ create mode 100644 03-Community-Policing/AIBC-Community-Policing.plantuml
+ create mode 100644 03-Community-Policing/AIBC-Community-Policing.png
+ create mode 100644 03-Community-Policing/Community-Policing -1.jfif
+ create mode 100644 03-Community-Policing/Community-Policing -2.jfif
+ create mode 100644 03-Community-Policing/Community-Policing.md
+ create mode 100644 03-Community-Policing/Community-Policing.plantuml
+ create mode 100644 03-Community-Policing/Community-Policing.png
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                716ms  ✓  
+└─# git push
+Enumerating objects: 15, done.
+Counting objects: 100% (15/15), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (12/12), done.
+Writing objects: 100% (12/12), 513.77 KiB | 20.55 MiB/s, done.
+Total 12 (delta 3), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (3/3), completed with 3 local objects.
+To https://github.com/the-genemachine/AIBC-Mob-Violence-Prevention.git
+   6bdafad..e2913aa  main -> main
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                   2s  ✓  
+└─# Get-History >> Git-Usage.hist
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                 71ms  ✓  
+└─#
