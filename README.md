@@ -8,9 +8,9 @@ To address this scenario and devise a system to find the perpetrators and deter 
 
 - [X] **Enhanced surveillance**: Install and upgrade CCTV cameras in public spaces and high-risk areas to monitor and record incidents. Use advanced technologies like facial recognition software and AI-powered video analytics to identify suspects and track their movements.
 
-- [ ] **Police presence**: Increase police presence in high-risk areas, especially during peak times or when tensions are high. This may serve as a deterrent and enable a quicker response to incidents.
+- [X] **Police presence**: Increase police presence in high-risk areas, especially during peak times or when tensions are high. This may serve as a deterrent and enable a quicker response to incidents.
 
-- [ ] **Community policing**: Strengthen community policing efforts by building trust and communication channels between law enforcement and local communities. Encourage community members to report suspicious activities or share information about potential perpetrators.
+- [X] **Community policing**: Strengthen community policing efforts by building trust and communication channels between law enforcement and local communities. Encourage community members to report suspicious activities or share information about potential perpetrators.
 
 - [ ] **Social media monitoring**: Monitor social media platforms for potential threats or plans for violent incidents. This can provide law enforcement with valuable information and help prevent incidents before they occur.
 

@@ -242,3 +242,22 @@ Out-File: Could not find a part of the path 'Z:\OpenAI-Mob-Violence\Docs\cli.his
 └─# Get-Help >> Git-Usage.hist
 ┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                174ms  ✓  
 └─#
+
+PowerShell Extension v2023.5.0
+Copyright (c) Microsoft Corporation.
+
+https://aka.ms/vscode-powershell
+Type 'help' to get help.
+
+PS Z:\OpenAI-Mob-Violence> .\Create-Base.ps1
+Enter a directory name: 03-Community-Policing
+
+    Directory: Z:\OpenAI-Mob-Violence\03-Community-Policing
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2023-05-08  9:52 PM              0 Community-Policing.md
+-a---          2023-05-08  9:52 PM              0 Community-Policing.plantuml
+-a---          2023-05-08  9:52 PM              0 Community-Policing.png
+-a---          2023-05-08  9:52 PM              0 AIBC-Community-Policing.plantuml
+-a---          2023-05-08  9:52 PM              0 AIBC-Community-Policing.png

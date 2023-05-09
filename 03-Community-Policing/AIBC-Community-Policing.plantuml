@@ -1,0 +1,19 @@
+@startuml
+
+actor "Law Enforcement" as law_enforcement
+actor "Community" as community
+
+rectangle "AI & Blockchain in\nCommunity Policing" {
+  (Data Analysis & Prediction) --> (Facial Recognition & Object Detection)
+  (Facial Recognition & Object Detection) --> (Natural Language Processing)
+  (Natural Language Processing) --> (Sentiment Analysis & Community Engagement)
+  (Sentiment Analysis & Community Engagement) --> (Information Sharing & Transparency)
+  (Information Sharing & Transparency) --> (Identity Management)
+  (Identity Management) --> (Evidence Management)
+  (Evidence Management) --> (Secure Communication)
+}
+
+law_enforcement -down-> (Data Analysis & Prediction)
+community -down-> (Sentiment Analysis & Community Engagement)
+
+@enduml

@@ -1,0 +1,21 @@
+@startuml
+
+actor "Community" as community
+actor "Law Enforcement" as law_enforcement
+
+community -> law_enforcement : Trust & Collaboration
+community <- law_enforcement : Proactive Problem-Solving
+
+rectangle "Community Policing" {
+  (Trust Building) --> (Collaboration)
+  (Collaboration) --> (Partnerships)
+  (Partnerships) --> (Decentralized Decision-Making)
+  (Decentralized Decision-Making) --> (Proactive Policing)
+  (Proactive Policing) --> (Training & Education)
+  (Training & Education) --> (Community Engagement)
+  (Community Engagement) --> (Evaluation & Improvement)
+}
+
+law_enforcement -down-> (Trust Building)
+
+@enduml
