@@ -12,7 +12,7 @@ To address this scenario and devise a system to find the perpetrators and deter 
 
 - [X] **Community policing**: Strengthen community policing efforts by building trust and communication channels between law enforcement and local communities. Encourage community members to report suspicious activities or share information about potential perpetrators.
 
-- [ ] **Social media monitoring**: Monitor social media platforms for potential threats or plans for violent incidents. This can provide law enforcement with valuable information and help prevent incidents before they occur.
+- [X] **Social media monitoring**: Monitor social media platforms for potential threats or plans for violent incidents. This can provide law enforcement with valuable information and help prevent incidents before they occur.
 
 - [ ] **Education and awareness campaigns**: Implement educational programs and campaigns that promote non-violence and conflict resolution. Teach young people about the consequences of violence and the importance of peaceful communication.
 
