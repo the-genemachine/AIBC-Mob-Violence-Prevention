@@ -322,4 +322,45 @@ To https://github.com/the-genemachine/AIBC-Mob-Violence-Prevention.git
 └─# Get-History >> Git-Usage.hist
 ┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                 71ms  ✓  
 └─#
-
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                 71ms  ✓  
+└─# git add .
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                294ms  ✓  
+└─# git commit -m "Updated the history files"
+[main d98ee78] Updated the history files
+ 2 files changed, 89 insertions(+), 233 deletions(-)
+ rewrite Git-Usage.hist (91%)
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                534ms  ✓  
+└─# git push
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (4/4), 899 bytes | 224.00 KiB/s, done.
+Total 4 (delta 3), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (3/3), completed with 3 local objects.
+To https://github.com/the-genemachine/AIBC-Mob-Violence-Prevention.git
+   e2913aa..d98ee78  main -> main
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                   2s  ✓  
+└─# git commit -m "Added content and images for Social Media Monitoring"
+[main 1e31aa6] Added content and images for Social Media Monitoring
+ 10 files changed, 113 insertions(+)
+ create mode 100644 04-Social-Media-Monitoring/AIBC-Social-Media-Monitoring.plantuml
+ create mode 100644 04-Social-Media-Monitoring/AIBC-Social-Media-Monitoring.png
+ create mode 100644 04-Social-Media-Monitoring/Social-Media-Monitoring-2.jfif
+ create mode 100644 04-Social-Media-Monitoring/Social-Media-Monitoring-3.jfif
+ create mode 100644 04-Social-Media-Monitoring/Social-Media-Monitoring-4.jfif
+             778ms  ✓
+└─# git push
+Enumerating objects: 15, done.
+Counting objects: 100% (15/15), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (13/13), done.
+Writing objects: 100% (13/13), 1.07 MiB | 1.47 MiB/s, done.
+Total 13 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/the-genemachine/AIBC-Mob-Violence-Prevention.git
+   d98ee78..1e31aa6  main -> main
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                   3s  ✓  
+└─# Get-History >> Git-Usage.hist
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                 59ms  ✓  
+└─#
