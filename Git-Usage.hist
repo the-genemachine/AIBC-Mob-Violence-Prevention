@@ -71,3 +71,13 @@
   24        0.731 git commit -m "Added content and Images for Education and Awareness Campaigns"
   25        2.844 git push
 
+
+  Id     Duration CommandLine
+  --     -------- -----------
+   2        0.004 clear-History
+   3        0.170 git status
+   4        0.503 git add .
+   5        0.233 git add .
+   6        0.703 git commit -m "Added content for Youth Outreach Programs"
+   7        2.655 git push
+

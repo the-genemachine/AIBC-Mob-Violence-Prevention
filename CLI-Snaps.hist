@@ -478,4 +478,48 @@ remote: Resolving deltas: 100% (3/3), completed with 3 local objects.
 To https://github.com/the-genemachine/AIBC-Mob-Violence-Prevention.git
    ba8770f..94a4964  main -> main
 
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                  0ms  ✓  
+└─# clear-History
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                  4ms  ✓  
+└─# git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   CLI-Snaps.hist
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        06-Youth-Outreach-Programs/
+
+no changes added to commit (use "git add" and/or "git commit -a")
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                170ms  ✓  
+└─# git add . 
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                503ms  ✓  
+└─# git add .                                                                                                     
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                233ms  ✓  
+└─# git commit -m "Added content for Youth Outreach Programs"
+[main 032c792] Added content for Youth Outreach Programs
+ 7 files changed, 102 insertions(+), 1 deletion(-)
+ create mode 100644 06-Youth-Outreach-Programs/AIBC-Youth-Outreach-Programs.plantuml
+ create mode 100644 06-Youth-Outreach-Programs/AIBC-Youth-Outreach-Programs.png
+ create mode 100644 06-Youth-Outreach-Programs/Youth-Outreach-Programs.md
+ create mode 100644 06-Youth-Outreach-Programs/Youth-Outreach-Programs.plantuml
+ create mode 100644 06-Youth-Outreach-Programs/Youth-Outreach-Programs.png
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                703ms  ✓  
+└─# git push
+Enumerating objects: 13, done.
+Counting objects: 100% (13/13), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (10/10), done.
+Writing objects: 100% (10/10), 68.13 KiB | 6.19 MiB/s, done.
+Total 10 (delta 3), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (3/3), completed with 3 local objects.
+To https://github.com/the-genemachine/AIBC-Mob-Violence-Prevention.git
+   94a4964..032c792  main -> main
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                   2s  ✓  
+└─#
+
 
