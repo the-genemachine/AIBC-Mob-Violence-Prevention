@@ -14,7 +14,7 @@ To address this scenario and devise a system to find the perpetrators and deter 
 
 - [X] **Social media monitoring**: Monitor social media platforms for potential threats or plans for violent incidents. This can provide law enforcement with valuable information and help prevent incidents before they occur.
 
-- [ ] **Education and awareness campaigns**: Implement educational programs and campaigns that promote non-violence and conflict resolution. Teach young people about the consequences of violence and the importance of peaceful communication.
+- [X] **Education and awareness campaigns**: Implement educational programs and campaigns that promote non-violence and conflict resolution. Teach young people about the consequences of violence and the importance of peaceful communication.
 
 - [ ] **Youth outreach programs**: Develop programs that engage at-risk youth and provide them with positive outlets for their energy, such as sports, arts, or community service. This can help reduce the likelihood of their involvement in violent activities.
 

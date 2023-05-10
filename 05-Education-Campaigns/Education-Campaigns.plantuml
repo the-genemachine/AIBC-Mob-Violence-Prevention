@@ -1,0 +1,13 @@
+@startuml
+
+start
+:Targeted messaging;
+:Collaboration with local organizations;
+:Utilizing various communication channels;
+:Community involvement;
+:Youth engagement;
+:Evaluation and feedback;
+:Long-term commitment;
+stop
+
+@enduml

@@ -364,3 +364,51 @@ To https://github.com/the-genemachine/AIBC-Mob-Violence-Prevention.git
 └─# Get-History >> Git-Usage.hist
 ┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                 59ms  ✓  
 └─#
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                 59ms  ✓  
+└─# git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   CLI-Snaps.hist
+        modified:   Git-Usage.hist
+
+no changes added to commit (use "git add" and/or "git commit -a")
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                152ms  ✓  
+└─# git add .
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                318ms  ✓  
+└─# git commit -m "Updated the history files"
+[main 4dff64e] Updated the history files
+ 2 files changed, 58 insertions(+), 1 deletion(-)
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                541ms  ✓  
+└─# git push
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (4/4), 1005 bytes | 251.00 KiB/s, done.
+Total 4 (delta 3), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (3/3), completed with 3 local objects.
+To https://github.com/the-genemachine/AIBC-Mob-Violence-Prevention.git
+   1e31aa6..4dff64e  main -> main
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                   2s  ✓  
+└─# git add .
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                236ms  ✓  
+└─# git commit -m "Updated the ReadMe file"
+[main 614c0ed] Updated the ReadMe file
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                586ms  ✓  
+└─# git push
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 304 bytes | 76.00 KiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To https://github.com/the-genemachine/AIBC-Mob-Violence-Prevention.git
+   4dff64e..614c0ed  main -> main
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                   2s  ✓  
+└─#
