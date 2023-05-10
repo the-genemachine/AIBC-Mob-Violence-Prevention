@@ -81,3 +81,12 @@
    6        0.703 git commit -m "Added content for Youth Outreach Programs"
    7        2.655 git push
 
+
+  Id     Duration CommandLine
+  --     -------- -----------
+   1        0.038 try { . "c:\Program Files\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\browser\media\shellIntegration.ps1" } catch {}
+   2        0.704 git status
+   3        1.588 git add .
+   4        1.162 git commit -m "Added content and images for Gun Control Measures"
+   5        3.641 git push
+

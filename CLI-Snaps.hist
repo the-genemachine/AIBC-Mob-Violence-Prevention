@@ -544,4 +544,50 @@ To https://github.com/the-genemachine/AIBC-Mob-Violence-Prevention.git
 ┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                   2s  ✓  
 └─#
 
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                 38ms  ✓  
+└─# git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   CLI-Snaps.hist
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        04-Social-Media-Monitoring/Thumbs.db
+        05-Education-Campaigns/Thumbs.db
+        06-Youth-Outreach-Programs/Thumbs.db
+        07-Gun-Control-Measures/
+
+no changes added to commit (use "git add" and/or "git commit -a")
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                704ms  ✓  
+└─# git add . 
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                   1s  ✓  
+└─# git commit -m "Added content and images for Gun Control Measures"
+[main f2c8053] Added content and images for Gun Control Measures
+ 10 files changed, 118 insertions(+), 1 deletion(-)
+ create mode 100644 04-Social-Media-Monitoring/Thumbs.db
+ create mode 100644 05-Education-Campaigns/Thumbs.db
+ create mode 100644 06-Youth-Outreach-Programs/Thumbs.db
+ create mode 100644 07-Gun-Control-Measures/AIBC-Gun-Control-Measures.plantuml
+ create mode 100644 07-Gun-Control-Measures/AIBC-Gun-Control-Measures.svg
+ create mode 100644 07-Gun-Control-Measures/Gun-Control-Measures.md
+ create mode 100644 07-Gun-Control-Measures/Gun-Control-Measures.plantuml
+ create mode 100644 07-Gun-Control-Measures/Gun-Control-Measures.svg
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                   1s  ✓  
+└─# git push
+Enumerating objects: 22, done.
+Counting objects: 100% (22/22), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (16/16), done.
+Writing objects: 100% (16/16), 124.80 KiB | 6.24 MiB/s, done.
+Total 16 (delta 7), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (7/7), completed with 6 local objects.
+To https://github.com/the-genemachine/AIBC-Mob-Violence-Prevention.git
+   4cd2328..f2c8053  main -> main
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                   3s  ✓  
+└─#
+
 
