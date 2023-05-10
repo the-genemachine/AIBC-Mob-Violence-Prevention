@@ -412,3 +412,50 @@ To https://github.com/the-genemachine/AIBC-Mob-Violence-Prevention.git
    4dff64e..614c0ed  main -> main
 ┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                   2s  ✓  
 └─#
+
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                  0ms  ✓  
+└─# Get-Date
+
+May 9, 2023 11:05:26 PM
+
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                 15ms  ✓  
+└─# git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   CLI-Snaps.hist
+        modified:   README.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        05-Education-Campaigns/
+
+no changes added to commit (use "git add" and/or "git commit -a")
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                   2s  ✓  
+└─# git add . 
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                576ms  ✓  
+└─# git commit -m "Added content and Images for Education and Awareness Campaigns"
+[main ba8770f] Added content and Images for Education and Awareness Campaigns
+ 7 files changed, 133 insertions(+), 1 deletion(-)
+ create mode 100644 05-Education-Campaigns/AIBC-Education-Campaigns.plantuml
+ create mode 100644 05-Education-Campaigns/AIBC-Education-Campaigns.png
+ create mode 100644 05-Education-Campaigns/Education-Campaigns.md
+ create mode 100644 05-Education-Campaigns/Education-Campaigns.plantuml
+ create mode 100644 05-Education-Campaigns/Education-Campaigns.png
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                731ms  ✓  
+└─# git push
+Enumerating objects: 13, done.
+Counting objects: 100% (13/13), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (10/10), done.
+Writing objects: 100% (10/10), 39.62 KiB | 4.95 MiB/s, done.
+Total 10 (delta 3), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (3/3), completed with 3 local objects.
+To https://github.com/the-genemachine/AIBC-Mob-Violence-Prevention.git
+   614c0ed..ba8770f  main -> main
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                   2s  ✓  
+└─#
+
