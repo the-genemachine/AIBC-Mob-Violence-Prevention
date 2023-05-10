@@ -16,7 +16,7 @@ To address this scenario and devise a system to find the perpetrators and deter 
 
 - [X] **Education and awareness campaigns**: Implement educational programs and campaigns that promote non-violence and conflict resolution. Teach young people about the consequences of violence and the importance of peaceful communication.
 
-- [ ] **Youth outreach programs**: Develop programs that engage at-risk youth and provide them with positive outlets for their energy, such as sports, arts, or community service. This can help reduce the likelihood of their involvement in violent activities.
+- [X] **Youth outreach programs**: Develop programs that engage at-risk youth and provide them with positive outlets for their energy, such as sports, arts, or community service. This can help reduce the likelihood of their involvement in violent activities.
 
 - [ ] **Gun control measures**: Implement stricter gun control laws and background checks to make it more difficult for potential perpetrators to acquire firearms.
 
