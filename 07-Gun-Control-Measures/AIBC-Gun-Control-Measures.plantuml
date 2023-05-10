@@ -1,0 +1,23 @@
+@startuml
+participant "AI-powered\nBackground\nChecks" as AI_BC
+note right of AI_BC: Automate and improve\nbackground check\nprocess using AI
+participant "Predictive\nAnalytics" as PA
+note right of PA: Identify high-risk areas\nand individuals
+participant "AI-powered\nSurveillance" as AI_SURV
+note right of AI_SURV: Detect and track\nprohibited individuals
+participant "Blockchain for\nSecure Firearm\nRegistration" as BFR
+note right of BFR: Tamper-proof registry\nfor firearm ownership\nand sales
+participant "Blockchain-based\nGun Tracking" as BGT
+note right of BGT: Improve gun tracing\nand transparency
+participant "Decentralized\nIdentity and\nGun Licensing" as DIGL
+note right of DIGL: Secure and efficient\ndigital identities\nfor gun owners
+participant "AI and Blockchain\nfor Community-based\nIntervention Programs" as AIBC_CBIP
+note right of AIBC_CBIP: Analyze data and\nenhance collaboration
+
+AI_BC -> PA : Identify High-risk Individuals
+PA -> AI_SURV : Monitor Prohibited Individuals
+AI_SURV -> BFR : Register and Track Firearms
+BFR -> BGT : Trace Firearms in Crimes
+BGT -> DIGL : Verify Owner Identities
+DIGL -> AIBC_CBIP : Support Intervention Programs
+@enduml

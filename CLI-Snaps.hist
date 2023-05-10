@@ -522,4 +522,26 @@ To https://github.com/the-genemachine/AIBC-Mob-Violence-Prevention.git
 ┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                   2s  ✓  
 └─#
 
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                   2s  ✓  
+└─# get-history >> .\Git-Usage.hist
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                 81ms  ✓  
+└─# git add .
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                353ms  ✓  
+└─# git commit -m "Updated the history files"
+[main 4cd2328] Updated the history files
+ 2 files changed, 54 insertions(+)
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                543ms  ✓  
+└─# git push
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (4/4), 769 bytes | 192.00 KiB/s, done.
+Total 4 (delta 3), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (3/3), completed with 3 local objects.
+To https://github.com/the-genemachine/AIBC-Mob-Violence-Prevention.git
+   032c792..4cd2328  main -> main
+┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                   2s  ✓  
+└─#
+
 

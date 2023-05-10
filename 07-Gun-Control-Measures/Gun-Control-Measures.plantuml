@@ -1,0 +1,18 @@
+@startuml
+participant "Universal\nBackground\nChecks" as UBC
+participant "Limit High-capacity\nMagazines\nand Assault Weapons" as LHC
+participant "Waiting\nPeriods" as WP
+participant "Safe Storage\nLaws" as SSL
+participant "Licensing\nand Registration" as LR
+participant "Red Flag\nLaws" as RFL
+participant "Community-based\nIntervention\nPrograms" as CBIP
+participant "Research and\nData Collection" as RDC
+
+UBC -> LHC : Implement Restrictions
+LHC -> WP : Enforce Waiting Periods
+WP -> SSL : Promote Safe Storage
+SSL -> LR : Establish Licensing System
+LR -> RFL : Implement Red Flag Laws
+RFL -> CBIP : Support Community Programs
+CBIP -> RDC : Inform Policy with Data
+@enduml
