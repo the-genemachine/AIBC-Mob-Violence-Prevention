@@ -698,4 +698,53 @@ remote: Resolving deltas: 100% (3/3), completed with 3 local objects.
 To https://github.com/the-genemachine/AIBC-Mob-Violence-Prevention.git
    12b2896..f122071  main -> main
 
+┌──(root💀AMDRyzen7-5700G)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                           38ms  ✓  
+└─# git push
+Enumerating objects: 13, done.
+Counting objects: 100% (13/13), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (10/10), done.
+Writing objects: 100% (10/10), 11.19 KiB | 1.24 MiB/s, done.
+Total 10 (delta 3), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (3/3), completed with 3 local objects.
+To https://github.com/the-genemachine/AIBC-Mob-Violence-Prevention.git
+   12b2896..f122071  main -> main
+┌──(root💀AMDRyzen7-5700G)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                             2s  ✓  
+└─# .\Create-Base.ps1
+Enter a directory name: 10-Post-Incident-Investigation
+
+    Directory: Z:\OpenAI-Mob-Violence\10-Post-Incident-Investigation
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2023-05-12  1:16 AM              0 Post-Incident-Investigation.md
+-a---          2023-05-12  1:16 AM              0 Post-Incident-Investigation.plantuml
+-a---          2023-05-12  1:16 AM              0 Post-Incident-Investigation.svg
+-a---          2023-05-12  1:16 AM              0 AIBC-Post-Incident-Investigation.plantuml
+-a---          2023-05-12  1:16 AM              0 AIBC-Post-Incident-Investigation.svg
+
+┌──(root💀AMDRyzen7-5700G)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                            21s  ✓  
+└─# git add .
+┌──(root💀AMDRyzen7-5700G)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                          844ms  ✓  
+└─# git commit -m "Added content and images for Post Incident Investigation"
+[main 23895cf] Added content and images for Post Incident Investigation
+ 8 files changed, 186 insertions(+), 1 deletion(-)
+ create mode 100644 10-Post-Incident-Investigation/AIBC-Post-Incident-Investigation.plantuml
+ create mode 100644 10-Post-Incident-Investigation/AIBC-Post-Incident-Investigation.svg
+ create mode 100644 10-Post-Incident-Investigation/Post-Incident-Investigation.md
+ create mode 100644 10-Post-Incident-Investigation/Post-Incident-Investigation.plantuml
+ create mode 100644 10-Post-Incident-Investigation/Post-Incident-Investigation.svg
+┌──(root💀AMDRyzen7-5700G)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                          797ms  ✓  
+└─# git push
+Enumerating objects: 15, done.
+Counting objects: 100% (15/15), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (11/11), 10.45 KiB | 1.16 MiB/s, done.
+Total 11 (delta 4), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (4/4), completed with 4 local objects.
+To https://github.com/the-genemachine/AIBC-Mob-Violence-Prevention.git
+   f122071..23895cf  main -> main
+┌──(root💀AMDRyzen7-5700G)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                             2s  ✓  
+└─#
 
