@@ -611,5 +611,52 @@ To https://github.com/the-genemachine/AIBC-Mob-Violence-Prevention.git
    f2c8053..b2eb2cf  main -> main
 ┌──(root💀AMDRyzen3)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                   2s  ✓  
 └─#
+┌──(root💀AMDRyzen7-5700G)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                           41ms  ✓
+└─# Get-History
+
+  Id     Duration CommandLine
+  --     -------- -----------
+   1        0.041 try { . "c:\Program Files\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\browser\media\shellIntegration.ps1" } catch {}
+
+┌──(root💀AMDRyzen7-5700G)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                            12ms  ✓
+└─# git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   CLI-Snaps.hist
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        08-Intelligence-Led-Policing/
+
+no changes added to commit (use "git add" and/or "git commit -a")
+┌──(root💀AMDRyzen7-5700G)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                                           148ms  ✓
+└─# git add . 
+┌──(root💀AMDRyzen7-5700G)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                          776ms  ✓  
+└─# git commit -m "Added content and images for Intelligence Led Policing"
+[main 12b2896] Added content and images for Intelligence Led Policing
+ 8 files changed, 145 insertions(+), 3 deletions(-)
+ create mode 100644 08-Intelligence-Led-Policing/AIBC-Intelligence-Led-Policing.plantuml
+ create mode 100644 08-Intelligence-Led-Policing/AIBC-Intelligence-Led-Policing.svg
+ create mode 100644 08-Intelligence-Led-Policing/Intelligence-Led-Policing.md
+ create mode 100644 08-Intelligence-Led-Policing/Intelligence-Led-Policing.plantuml
+ create mode 100644 08-Intelligence-Led-Policing/Intelligence-Led-Policing.svg
+┌──(root💀AMDRyzen7-5700G)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                          854ms  ✓  
+└─# git push
+Enumerating objects: 15, done.
+Counting objects: 100% (15/15), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (11/11), done.
+Writing objects: 100% (11/11), 8.75 KiB | 1.09 MiB/s, done.
+Total 11 (delta 5), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (5/5), completed with 4 local objects.
+To https://github.com/the-genemachine/AIBC-Mob-Violence-Prevention.git
+   b2eb2cf..12b2896  main -> main
+┌──(root💀AMDRyzen7-5700G)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                             3s  ✓  
+└─#
+
 
 

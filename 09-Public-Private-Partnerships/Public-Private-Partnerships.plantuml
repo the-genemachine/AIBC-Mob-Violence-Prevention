@@ -1,0 +1,49 @@
+@startuml
+
+title Public-Private Partnerships (PPPs) to Mitigate Urban Violence
+
+note right
+This diagram outlines the various
+components of a multi-faceted approach
+to mitigating urban violence through 
+Public-Private Partnerships (PPPs).
+end note
+
+start
+
+partition "Shared Surveillance and Information Systems" {
+  :Businesses and tech companies collaborate
+  with law enforcement;
+  note right: Sharing video surveillance and developing advanced data analytics tools
+}
+
+partition "Community Engagement" {
+  :Private entities and government agencies create
+  community engagement and crime prevention programs;
+  note right: Involving non-profits, local businesses, and government agencies
+}
+
+partition "Investment in Infrastructure" {
+  :Private sector invests in urban infrastructure;
+  note right: Includes street lighting and CCTV cameras
+}
+
+partition "Public Awareness Campaigns" {
+  :Media and community groups partner with law enforcement;
+  note right: Creating campaigns about the consequences of violent behavior
+}
+
+partition "Social Services Partnerships" {
+  :Partnerships formed with health care providers,
+  educational institutions, and social service agencies;
+  note right: Addressing root causes of violence
+}
+
+partition "Incentivizing Cooperation" {
+  :Government incentivizes private sector cooperation;
+  note right: Through tax breaks, grants, or other forms of financial assistance
+}
+
+stop
+
+@enduml
