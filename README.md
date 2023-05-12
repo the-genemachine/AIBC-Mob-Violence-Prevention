@@ -24,6 +24,6 @@ To address this scenario and devise a system to find the perpetrators and deter 
 
 - [X] **Public-private partnerships**: Collaborate with businesses, schools, and community organizations to implement joint efforts in addressing and preventing violence.
 
-- [ ] **Post-incident investigation**: Thoroughly investigate incidents of violence and work diligently to apprehend the perpetrators. Ensure that they face consequences for their actions, sending a strong message that such behavior will not be tolerated.
+- [X] **Post-incident investigation**: Thoroughly investigate incidents of violence and work diligently to apprehend the perpetrators. Ensure that they face consequences for their actions, sending a strong message that such behavior will not be tolerated.
 
 By implementing a combination of these strategies, communities can work together to identify the perpetrators of violence and deter future incidents.

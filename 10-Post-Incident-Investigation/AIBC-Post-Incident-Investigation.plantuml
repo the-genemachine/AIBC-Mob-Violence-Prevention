@@ -1,0 +1,45 @@
+@startuml
+start
+
+:AI - Evidence Analysis;
+note right
+AI can analyze CCTV footage, digital evidence like social media posts or emails, looking for patterns or keywords.
+end note
+
+:AI - Predictive Policing;
+note right
+AI can analyze past crime data to predict where and when crimes are likely to occur in the future.
+end note
+
+:AI - Natural Language Processing;
+note right
+AI can transcribe and analyze witness interviews, identify key themes or emotions, and detect inconsistencies.
+end note
+
+:AI - Forensic Analysis;
+note right
+AI tools can assist in matching fingerprints or DNA samples more quickly and accurately.
+end note
+
+:Blockchain - Evidence Integrity;
+note right
+Blockchain can create an immutable record of evidence, ensuring the integrity of the evidence from the crime scene to the courtroom.
+end note
+
+:Blockchain - Digital Evidence;
+note right
+Blockchain can ensure the authenticity and integrity of digital evidence by hashing the digital evidence and storing the hash on the blockchain.
+end note
+
+:Blockchain - Information Sharing;
+note right
+Blockchain could facilitate secure information sharing between different law enforcement agencies.
+end note
+
+:Blockchain - Identity Verification;
+note right
+Blockchain can be used for secure identity verification, especially useful in cases involving cybercrime.
+end note
+
+stop
+@enduml

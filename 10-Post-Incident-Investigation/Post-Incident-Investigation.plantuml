@@ -1,0 +1,46 @@
+@startuml
+start
+
+:Collection of Physical Evidence;
+note right
+Collect all physical evidence at the scene. 
+Forensic examination of these items might yield fingerprints, DNA, etc.
+end note
+
+:CCTV and Digital Evidence Analysis;
+note right
+Analyze security camera footage and digital evidence like social media posts or cell phone data.
+end note
+
+:Witness Interviews;
+note right
+Interview any eyewitnesses to the event.
+Cross-check witness accounts with physical and digital evidence.
+end note
+
+:Crime Data Analysis;
+note right
+Analyze databases of past crimes, known offenders, and gang activities.
+Use of advanced analytics or AI could be involved.
+end note
+
+:Cooperation with Other Agencies;
+note right
+Cooperate with other law enforcement agencies.
+These agencies can provide additional resources, expertise, and access to broader databases.
+end note
+
+:Public Appeals and Informant Information;
+note right
+Make public appeals for information about the incident.
+Information from informants can be crucial in solving violent crimes.
+end note
+
+:Arrest and Prosecution;
+note right
+Once suspects are identified and sufficient evidence is collected, move to arrest the suspects.
+The evidence would be presented in court in an attempt to secure a conviction.
+end note
+
+stop
+@enduml

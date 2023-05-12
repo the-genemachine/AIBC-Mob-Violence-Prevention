@@ -658,5 +658,44 @@ To https://github.com/the-genemachine/AIBC-Mob-Violence-Prevention.git
 ┌──(root💀AMDRyzen7-5700G)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                             3s  ✓  
 └─#
 
+┌──(root💀AMDRyzen7-5700G)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                           37ms  ✓  
+└─# .\Create-Base.ps1
+Enter a directory name: 09-Public-Private-Partnerships
+
+    Directory: Z:\OpenAI-Mob-Violence\09-Public-Private-Partnerships
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          2023-05-12 12:37 AM              0 Public-Private-Partnerships.md
+-a---          2023-05-12 12:37 AM              0 Public-Private-Partnerships.plantuml
+-a---          2023-05-12 12:37 AM              0 Public-Private-Partnerships.svg
+-a---          2023-05-12 12:37 AM              0 AIBC-Public-Private-Partnerships.plantuml
+-a---          2023-05-12 12:37 AM              0 AIBC-Public-Private-Partnerships.svg
+
+┌──(root💀AMDRyzen7-5700G)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                            38s  ✓  
+└─# git add .
+┌──(root💀AMDRyzen7-5700G)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                          692ms  ✓  
+└─# git commit -m "Added content and images for Public-Private Partnerships"
+[main f122071] Added content and images for Public-Private Partnerships
+ 7 files changed, 213 insertions(+), 1 deletion(-)
+ create mode 100644 09-Public-Private-Partnerships/AIBC-Public-Private-Partnerships.plantuml
+ create mode 100644 09-Public-Private-Partnerships/AIBC-Public-Private-Partnerships.svg
+ create mode 100644 09-Public-Private-Partnerships/Public-Private-Partnerships.md
+ create mode 100644 09-Public-Private-Partnerships/Public-Private-Partnerships.plantuml
+ create mode 100644 09-Public-Private-Partnerships/Public-Private-Partnerships.svg
+┌──(root💀AMDRyzen7-5700G)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                          722ms  ✓  
+└─#
+
+┌──(root💀AMDRyzen7-5700G)-[Z:/OpenAI-Mob-Violence]-[main]                                                                                                                                           38ms  ✓  
+└─# git push
+Enumerating objects: 13, done.
+Counting objects: 100% (13/13), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (10/10), done.
+Writing objects: 100% (10/10), 11.19 KiB | 1.24 MiB/s, done.
+Total 10 (delta 3), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (3/3), completed with 3 local objects.
+To https://github.com/the-genemachine/AIBC-Mob-Violence-Prevention.git
+   12b2896..f122071  main -> main
 
 

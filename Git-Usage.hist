@@ -90,3 +90,11 @@
    4        1.162 git commit -m "Added content and images for Gun Control Measures"
    5        3.641 git push
 
+
+  Id     Duration CommandLine
+  --     -------- -----------
+   1        0.037 try { . "c:\Program Files\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\browser\media\shellIntegration.ps1" } catch {}
+   2       38.184 .\Create-Base.ps1
+   3        0.692 git add .
+   4        0.722 git commit -m "Added content and images for Public-Private Partnerships"
+
