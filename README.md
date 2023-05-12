@@ -20,7 +20,7 @@ To address this scenario and devise a system to find the perpetrators and deter 
 
 - [X] **Gun control measures**: Implement stricter gun control laws and background checks to make it more difficult for potential perpetrators to acquire firearms.
 
-- [ ] **Intelligence-led policing**: Analyze data and trends related to crime and violence in the area to identify potential hotspots and develop targeted interventions.
+- [X] **Intelligence-led policing**: Analyze data and trends related to crime and violence in the area to identify potential hotspots and develop targeted interventions.
 
 - [ ] **Public-private partnerships**: Collaborate with businesses, schools, and community organizations to implement joint efforts in addressing and preventing violence.
 

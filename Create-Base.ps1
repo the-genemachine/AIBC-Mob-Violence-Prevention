@@ -4,9 +4,9 @@ $strippedVar = $var.Name -replace '^\d+-', ''
 
 New-Item -ItemType File -Path "$var\$strippedVar.md"
 New-Item -ItemType File -Path "$var\$strippedVar.plantuml"
-New-Item -ItemType File -Path "$var\$strippedVar.png"
+New-Item -ItemType File -Path "$var\$strippedVar.svg"
 New-Item -ItemType File -Path "$var\AIBC-$strippedVar.plantuml"
-New-Item -ItemType File -Path "$var\AIBC-$strippedVar.png"
+New-Item -ItemType File -Path "$var\AIBC-$strippedVar.svg"
 
 #Get-ChildItem -Path $var.FullName
 
